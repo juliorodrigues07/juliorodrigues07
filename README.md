@@ -14,10 +14,10 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+  
   <div>
     <a href="https://github.com/juliorodrigues07?tab=repositories">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliorodrigues07&layout=compact&theme=react&hide_border=true&hide=jupyter%20notebook,php,hack&langs_count=10&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliorodrigues07&layout=compact&theme=react&hide_border=true&hide=jupyter%20notebook,php,hack&langs_count=10&bg_color=0D1117&title_color=F0DB4F"/>
   </div>
 
   ## **💻 Main Tools**
