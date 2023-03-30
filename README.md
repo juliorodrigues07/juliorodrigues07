@@ -17,7 +17,7 @@
   
   <div>
     <a href="https://github.com/juliorodrigues07?tab=repositories">
-    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliorodrigues07&layout=compact&theme=react&hide_border=true&hide=jupyter%20notebook,php,hack&langs_count=10&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F"/>
+    <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliorodrigues07&layout=compact&theme=react&hide_border=true&hide=jupyter%20notebook,php,hack&langs_count=10"/>
   </div>
 
   ## **💻 Main Tools**
