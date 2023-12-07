@@ -1,7 +1,7 @@
 <div align="center">
   <h2>About me</h2>
 
-  🌱 I'm currently learning Vue.js;
+  🌱 I'm currently studying post-quantum cryptography (*Dilithium* digital signature scheme);
 
   👀 Interested in Data Science, Machine Learning and CyberSecurity;
 
