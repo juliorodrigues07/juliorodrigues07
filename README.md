@@ -1,11 +1,13 @@
 <div align="center">
   <h2>About me</h2>
 
-  🌱 I'm currently studying post-quantum cryptography (*Dilithium* digital signature scheme);
+  🌱 I'm currently studying post-quantum cryptography (_Dilithium_ digital signature scheme);
 
   👀 Interested in Data Science, Machine Learning and CyberSecurity;
 
   🚀 Looking forward to learn Rust in a near future;
+
+  🔧 Experimenting with Streamlit and Dash Plotly on data visualization apps (![Rent Pricing Dashboard](https://github.com/juliorodrigues07/rent_pricing/)); 
 
   📕 Reading Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin.
 
@@ -25,6 +27,8 @@
   ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=E44C30)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E)
+  ![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=for-the-badge&logo=pandas&logoColor=%23150458)
+  ![OpenCV](https://img.shields.io/badge/opencv-000000.svg?style=for-the-badge&logo=opencv&logoColor=%23white)
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
   ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
@@ -33,23 +37,21 @@
 
   ## **:hammer_and_wrench: Other Technologies**
   
-  ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-  ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
   ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
   ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
   ![Shell](https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-000000.svg?style=for-the-badge&logo=jupyter&logoColor=%23FA0F00)
-  ![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=for-the-badge&logo=pandas&logoColor=%23150458)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=%23ffffff)
-  ![OpenCV](https://img.shields.io/badge/opencv-000000.svg?style=for-the-badge&logo=opencv&logoColor=%23white)
   ![Selenium](https://img.shields.io/badge/-selenium-000000?style=for-the-badge&logo=selenium&logoColor=%43B02A)
   ![Keras](https://img.shields.io/badge/Keras-000000.svg?style=for-the-badge&logo=Keras&logoColor=%23D00000)
   
   <!--- 
+  ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+  ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-000000.svg?style=for-the-badge&logo=jupyter&logoColor=%23FA0F00
   ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
