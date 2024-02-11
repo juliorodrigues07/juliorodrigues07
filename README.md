@@ -29,18 +29,15 @@
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E)
   ![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=for-the-badge&logo=pandas&logoColor=%23150458)
   ![NumPy](https://img.shields.io/badge/numpy-000000.svg?style=for-the-badge&logo=numpy&logoColor=%23013243)
+  ![Plotly](https://img.shields.io/badge/Plotly-000000.svg?style=for-the-badge&logo=plotly&logoColor=%233F4F75)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=%23ffffff)
   ![OpenCV](https://img.shields.io/badge/opencv-000000.svg?style=for-the-badge&logo=opencv&logoColor=%23white)
-  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-  ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
   ![Linux Mint](https://img.shields.io/badge/Linux_Mint-000000?style=for-the-badge&logo=linux-mint&logoColor=87CF3E)
   ![LaTeX](https://img.shields.io/badge/latex-000000.svg?style=for-the-badge&logo=latex&logoColor=%23008080)
 
   ## **:hammer_and_wrench: Other Technologies**
   
   ![Keras](https://img.shields.io/badge/Keras-000000.svg?style=for-the-badge&logo=Keras&logoColor=%23D00000)
-  ![Plotly](https://img.shields.io/badge/Plotly-000000.svg?style=for-the-badge&logo=plotly&logoColor=%233F4F75)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=%23ffffff)
   ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
@@ -63,6 +60,9 @@
   ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
   ![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
+  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+  ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
   --->
 
