@@ -1,13 +1,13 @@
 <div align="center">
   <h2>About me</h2>
 
-  🌱 I'm currently studying post-quantum cryptography (_Dilithium_ digital signature scheme);
+  🌱 I'm currently studying post-quantum cryptography ([_Dilithium_](https://eprint.iacr.org/2017/633.pdf) digital signature scheme);
 
   👀 Interested in Data Science, Machine Learning and CyberSecurity;
 
   🚀 Looking forward to learn Rust in a near future;
 
-  🔧 Experimenting with Streamlit and Dash Plotly on data visualization apps (![Rent Pricing Dashboard](https://github.com/juliorodrigues07/rent_pricing/)); 
+  🔧 Experimenting with Streamlit and Dash Plotly on data visualization apps ([Rent Pricing Dashboard](https://github.com/juliorodrigues07/LH_CD_JULIORODRIGUES)); 
 
   📕 Reading Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin.
 
@@ -24,8 +24,6 @@
 
   ## **💻 Main Tools**
 
-  ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=E44C30)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E)
   ![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=for-the-badge&logo=pandas&logoColor=%23150458)
   ![NumPy](https://img.shields.io/badge/numpy-000000.svg?style=for-the-badge&logo=numpy&logoColor=%23013243)
@@ -47,6 +45,8 @@
   ![Selenium](https://img.shields.io/badge/-selenium-000000?style=for-the-badge&logo=selenium&logoColor=%43B02A)
   
   <!--- 
+  ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=E44C30)
   ![React](https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
