@@ -7,8 +7,6 @@
 
   🚀 Looking forward to learn Rust in a near future;
 
-  🔧 Experimenting with Streamlit and Dash Plotly on data visualization apps ([Rent Pricing Dashboard](https://github.com/juliorodrigues07/LH_CD_JULIORODRIGUES)); 
-
   📕 Reading Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin.
 
   ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height = 20px> **Main Programming Languages**
