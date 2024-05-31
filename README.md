@@ -23,6 +23,7 @@
   ## **💻 Main Tools**
 
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23F7931E)
+  ![Keras](https://img.shields.io/badge/Keras-000000.svg?style=for-the-badge&logo=Keras&logoColor=%23D00000)
   ![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=for-the-badge&logo=pandas&logoColor=%23150458)
   ![NumPy](https://img.shields.io/badge/numpy-000000.svg?style=for-the-badge&logo=numpy&logoColor=%23013243)
   ![Plotly](https://img.shields.io/badge/Plotly-000000.svg?style=for-the-badge&logo=plotly&logoColor=%233F4F75)
@@ -32,8 +33,9 @@
   ![LaTeX](https://img.shields.io/badge/latex-000000.svg?style=for-the-badge&logo=latex&logoColor=%23008080)
 
   ## **:hammer_and_wrench: Other Technologies**
-  
-  ![Keras](https://img.shields.io/badge/Keras-000000.svg?style=for-the-badge&logo=Keras&logoColor=%23D00000)
+
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000.svg?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-000000.svg?style=for-the-badge&logo=jupyter&logoColor=%23FA0F00)
   ![Flask](https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
@@ -49,7 +51,6 @@
   ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
   ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-000000.svg?style=for-the-badge&logo=jupyter&logoColor=%23FA0F00
   ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
