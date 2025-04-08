@@ -1,9 +1,11 @@
 <div align="left">
   <h2>About me</h2>
 
-  - 🌱 I'm currently studying ETL pipelines construction with Apache Spark;
-
+  - 🎓 Bachelor's degree in Computer Science from UFSJ;
+    
   - 👀 Interested in Data Science, Machine Learning and CyberSecurity;
+
+  - 🌱 I'm currently studying ETL pipelines construction with Apache Spark;
 
   - 🚀 Looking forward to learn Rust in a near future;
 
